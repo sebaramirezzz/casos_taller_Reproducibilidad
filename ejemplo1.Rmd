@@ -8,3 +8,5 @@ ejemplo1. comparar la tasa de ataque en diferentes grupos
 #para instalar el historial de camnios hay que usar git log
 
 para identificar grupos a priorizar en intervención
+
+hola
