@@ -1,1 +1,10 @@
 ejemplo1. comparar la tasa de ataque en diferentes grupos
+
+#todos los verbos de Git se hacen a traves de la terminal
+# git status informa el estado del repositiorio
+
+#ejecutar git add ejemplo1.Rmd en la terminal
+
+#para instalar el historial de camnios hay que usar git log
+
+para identificar grupos a priorizar en intervención
